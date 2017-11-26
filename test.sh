@@ -1,2 +1,3 @@
-ls
-ls
+ls >aaa
+mkdir aaa
+ls > aaa/sss
