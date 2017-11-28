@@ -1,3 +1,3 @@
 ls >aaa
-mkdir aaa
+sudo mkdir aaa
 ls > docs/sss
