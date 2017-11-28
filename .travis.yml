@@ -1,5 +1,5 @@
 language: bash
-
+sudo: required
 before_script:
     - ls > ooo.txt
 
