@@ -1,1 +1,6 @@
-dgf
+$(document).ready(function() {
+
+         alert("data");
+
+
+});
