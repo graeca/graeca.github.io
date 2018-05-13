@@ -1,5 +1,9 @@
 [gimmick:theme](united)
 
+$$ x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
+
+
+[gimmick:googlemaps](Madison Square Garden, NY)
 
 Markdown
 --------
